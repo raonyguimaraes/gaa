@@ -1,1 +1,1 @@
-# GAA - Genetic Ancestry Analsysis
+# GAA - Genetic Ancestry Analysis
